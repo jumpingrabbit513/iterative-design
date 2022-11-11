@@ -39,32 +39,3 @@ img {
 h4 {
     margin-bottom: 20px;
 }
-
-#goal {
-    margin-bottom: 200px;
-}
-
-#interviews li {
-    margin-bottom: 10px;
-}
-
-#sarah-intro {
-    margin-bottom: 43px;
-}
-
-.list-group {
-    min-width: 40vw;
-}
-
-.prototypes {
-    width: 60vw;
-    gap: 30px;
-}
-
-#style-guide {
-    width: 80%;
-}
-/* 
-.prototypes img {
-    position: relative;
-} */
